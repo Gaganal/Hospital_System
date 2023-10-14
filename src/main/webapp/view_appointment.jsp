@@ -99,7 +99,7 @@
 				</div>
 			</div>
 		</div>
-		<div class="col-md-3 p-5">
+		<div class="col-md-3 p-3">
 			<img alt="" src="img/doc.jpg">
 		</div>
 	</div>
